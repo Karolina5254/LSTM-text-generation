@@ -1,5 +1,5 @@
 # LSTM-text-generation
-Main concept of our project was to deliver generated text on the basis of previously created text by Leo Tolstoy. 
+## Main concept of our project was to deliver generated text on the basis of previously created text by Leo Tolstoy. 
 
 We have taken LSTM Recurrent Neural Networks in order to use them as generative models. Our goal was to not use them only as predictive models but what is more they learn the sequences of a problem and then generate entirely new text.
 
@@ -19,10 +19,15 @@ Step by step:
 ![](Images/2.png)
 
 4. Vectorization of the batches
+
 ![](Images/3.png)
+
 5. LSTM Model creation
+
 ![](Images/4.png)
-6. Fitting the model based on vectorised characters and printing the output using callback function.
+
+6. Fitting the model based on vectorised characters and printing the output using callback function
+
 ![](Images/5.png)
 ![](Images/6.png)
 
