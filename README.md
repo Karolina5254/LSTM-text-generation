@@ -11,9 +11,12 @@ Step by step:
 1.Choosing the text- https://www.gutenberg.org/files/2600/2600-0.txt
 
 2.Preparation of the text- modification of the txt in order the model could work
+
 ![](images/1.png)
 
 3.Division of text into small batches (40 characters each)
+
+![](images/2.png)
 
 4.Vectorization of the batches
 
